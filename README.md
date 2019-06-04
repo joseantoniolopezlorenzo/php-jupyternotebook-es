@@ -32,3 +32,7 @@ Si todo está conforme debería abrirse su navegador por defecto con la siguient
 
 ![Home de Jupyter](./assets/jupyter-home.png)
 
+Inicie un nuevo **notebook** con el kernel PHP y ya puede empezar su proyecto. Por ejemplo,
+
+![PHP Básico notebook](./assets/primer-notebook.png)
+
