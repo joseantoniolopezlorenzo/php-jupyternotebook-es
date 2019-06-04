@@ -1,0 +1,14 @@
+{
+    "name": "antonio/php-jupyternotebook-es",
+    "description": "Jupyter Notebook en PHP y en español",
+    "type": "project",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "José Antonio López Lorenzo",
+            "email": "jall.informatico@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
