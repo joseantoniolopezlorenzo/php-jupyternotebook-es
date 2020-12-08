@@ -1,2 +1,7 @@
 # Managed by Composer
 /vendor/
+.ipynb_checkpoints/
+PHP 7 Zend Certification Study Guide - Andrew Beak.pdf
+php-basic.ipynb
+test.php
+test.php~

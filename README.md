@@ -30,9 +30,9 @@ jupiter-lab
 
 Si todo está conforme debería abrirse su navegador por defecto con la siguiente pantalla:
 
-![Home de Jupyter](./assets/jupyter-home.png)
+![Home de Jupyter](./assets/jupyter-notebook.png)
 
 Inicie un nuevo **notebook** con el kernel PHP y ya puede empezar su proyecto. Por ejemplo,
 
-![PHP Básico notebook](./assets/primer-notebook.png)
+![PHP Básico notebook](./assets/jupyter-notebook-php.png)
 
